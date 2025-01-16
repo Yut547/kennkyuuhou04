@@ -1,4 +1,3 @@
-# kennkyuuhou04
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,8 +6,11 @@
 </head>
 <body>
 <h1>
-HTML のイメージ
+myポートフォリオ
 </h1>
+<h2>
+自己紹介
+</h2>
 <p>
 HTML はタグを使って
 どこからどこまでがどの要素かを
